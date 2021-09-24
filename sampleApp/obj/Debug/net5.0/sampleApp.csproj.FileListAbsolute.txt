@@ -1,0 +1,16 @@
+D:\storage\chrome\CTS Training\FSE --------\Git\sampleApp\bin\Debug\net5.0\sampleApp.exe
+D:\storage\chrome\CTS Training\FSE --------\Git\sampleApp\bin\Debug\net5.0\sampleApp.deps.json
+D:\storage\chrome\CTS Training\FSE --------\Git\sampleApp\bin\Debug\net5.0\sampleApp.runtimeconfig.json
+D:\storage\chrome\CTS Training\FSE --------\Git\sampleApp\bin\Debug\net5.0\sampleApp.runtimeconfig.dev.json
+D:\storage\chrome\CTS Training\FSE --------\Git\sampleApp\bin\Debug\net5.0\sampleApp.dll
+D:\storage\chrome\CTS Training\FSE --------\Git\sampleApp\bin\Debug\net5.0\ref\sampleApp.dll
+D:\storage\chrome\CTS Training\FSE --------\Git\sampleApp\bin\Debug\net5.0\sampleApp.pdb
+D:\storage\chrome\CTS Training\FSE --------\Git\sampleApp\obj\Debug\net5.0\sampleApp.csproj.AssemblyReference.cache
+D:\storage\chrome\CTS Training\FSE --------\Git\sampleApp\obj\Debug\net5.0\sampleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\storage\chrome\CTS Training\FSE --------\Git\sampleApp\obj\Debug\net5.0\sampleApp.AssemblyInfoInputs.cache
+D:\storage\chrome\CTS Training\FSE --------\Git\sampleApp\obj\Debug\net5.0\sampleApp.AssemblyInfo.cs
+D:\storage\chrome\CTS Training\FSE --------\Git\sampleApp\obj\Debug\net5.0\sampleApp.csproj.CoreCompileInputs.cache
+D:\storage\chrome\CTS Training\FSE --------\Git\sampleApp\obj\Debug\net5.0\sampleApp.dll
+D:\storage\chrome\CTS Training\FSE --------\Git\sampleApp\obj\Debug\net5.0\ref\sampleApp.dll
+D:\storage\chrome\CTS Training\FSE --------\Git\sampleApp\obj\Debug\net5.0\sampleApp.pdb
+D:\storage\chrome\CTS Training\FSE --------\Git\sampleApp\obj\Debug\net5.0\sampleApp.genruntimeconfig.cache
